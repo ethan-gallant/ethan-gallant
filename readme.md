@@ -13,13 +13,8 @@
 
 Welcome to my GitHub, I will be using GitHub more actively as @TeamZiax has moved here from an alternate platform.
 
-I am an ambitious developer who loves developing technologies which have an impact. Weather that impact is user facing, cost-effective, or better for developers, I am always excited to bring positive change.
+I am an ambitious developer who loves making technologies that have an impact. Weather that impact is user facing, cost-effective, or better for developers, I am always excited to bring positive change.
 
 ### What do I do? 💼
 
-I work full-time for @TeamZiax as a Platform Engineer. I work with a team on the technology which will power the next generation of our game network.
-
-I am also the appointed CTO at Excl Networks and help ensure that our developers are producing quality work and our infrastructure and CI/CD pipelines stay afloat.
-
-### My Stack 🥞
-// todo when time freezes ⏰
+I work full-time for @TeamZiax as a Platform Engineer.

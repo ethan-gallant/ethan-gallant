@@ -11,10 +11,24 @@
 </a>
 
 
-Welcome to my GitHub, I will be using GitHub more actively as @TeamZiax has moved here from an alternate platform.
-
-I am an ambitious developer who loves making technologies that have an impact. Weather that impact is user facing, cost-effective, or better for developers, I am always excited to bring positive change.
+I am an ambitious developer and a RedHat fanboy with a passion for cloud native computing. I am addicted to problem solving and learning new things, if it's fast, resilient or distributed I want to hear about it.
 
 ### What do I do? 💼
 
-I work full-time for @TeamZiax as a Platform Engineer.
+I am currently at @TeamZiax as an Infrastructure Engineer leading our transition to cloud-native.
+
+Favourite Technologies ⭐
+- [Infinispan](https://infinispan.org) / [RedHat DataGrid](https://www.redhat.com/en/technologies/jboss-middleware/data-grid) (who needs redis anymore?)
+- [CockroachDB](https://www.cockroachlabs.com/) (multi master is the new thing)
+- [Quarkus](https://quarkus.io/)
+- [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) / [OKD](https://www.okd.io/)
+- [Operator Framework](https://operatorframework.io/)
+- [ElasticSearch](https://www.elastic.co/)
+
+Programming Languages (best to worst)
+- Java
+- Go
+- NodeJS / JS / TS
+- C#
+- C++
+- Python

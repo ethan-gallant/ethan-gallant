@@ -11,24 +11,16 @@
 </a>
 
 
-I am an ambitious developer and a RedHat fanboy with a passion for cloud native computing. I am addicted to problem solving and learning new things, if it's fast, resilient or distributed I want to hear about it.
+I am an ambitious developer helping drive a future of open, distributed and resilient cloud computing. I'm addicated to problem solving and am always learning new tech, if it's fast, resilient or distributed, I want to hear about it.
 
 ### What do I do? 💼
 
-I am currently at @TeamZiax as an Infrastructure Engineer leading our transition to cloud-native.
+I am a Senior Software Engineer @Acquia helping power our next generation cloud
 
-Favourite Technologies ⭐
+My favorite tech to work with
 - [Infinispan](https://infinispan.org) / [RedHat DataGrid](https://www.redhat.com/en/technologies/jboss-middleware/data-grid) (who needs redis anymore?)
 - [CockroachDB](https://www.cockroachlabs.com/) (multi master is the new thing)
 - [Quarkus](https://quarkus.io/)
 - [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) / [OKD](https://www.okd.io/)
 - [Operator Framework](https://operatorframework.io/)
 - [ElasticSearch](https://www.elastic.co/)
-
-Programming Languages (best to worst)
-- Java
-- Go
-- NodeJS / JS / TS
-- C#
-- C++
-- Python

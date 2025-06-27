@@ -15,7 +15,7 @@ I am an ambitious developer helping drive a future of open, distributed and resi
 
 ### What do I do? 💼
 
-I am a Senior Software Engineer @Acquia helping power our next generation cloud
+I am a Staff Software Engineer @Acquia helping power our next generation cloud
 
 My favorite tech to work with
 - [Infinispan](https://infinispan.org) / [RedHat DataGrid](https://www.redhat.com/en/technologies/jboss-middleware/data-grid) (who needs redis anymore?)

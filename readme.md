@@ -11,11 +11,11 @@
 </a>
 
 
-I am an ambitious developer helping drive a future of open, distributed and resilient cloud computing. I'm addicated to problem solving and am always learning new tech, if it's fast, resilient or distributed, I want to hear about it.
+I am an ambitious developer helping drive a future of open, distributed and resilient cloud computing. I'm addicted to problem solving and am always learning new tech, if it's fast, resilient or distributed, I want to hear about it.
 
 ### What do I do? 💼
 
-I am a Staff Software Engineer @Acquia helping power our next generation cloud
+I am a Systems Engineer @cloudflare using Kubernetes to make the internet go brrrrrrr.
 
 My favorite tech to work with
 - [Infinispan](https://infinispan.org) / [RedHat DataGrid](https://www.redhat.com/en/technologies/jboss-middleware/data-grid) (who needs redis anymore?)
